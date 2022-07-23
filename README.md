@@ -15,3 +15,11 @@
 ### Feel free to raise issues if you find some errors or want to clear your doubts...
 
 #### #mini project #voting system #c project
+
+
+https://user-images.githubusercontent.com/101836754/180621404-924a5cf8-fabb-4ed6-8261-b04629037d71.mp4
+
+
+
+https://user-images.githubusercontent.com/101836754/180621411-bdd21eb0-8b4e-4f11-a7a5-0553a4553331.mp4
+
